@@ -1,0 +1,20 @@
+.Detail{
+display: flex;
+align-items:center;
+justify-content:flex-start;
+flex-direction:row;
+
+border-radius: 5px;
+backdrop-filter: blur(4px);
+}
+
+.DetailInfo{
+display: flex;
+flex-direction: column;
+margin: 10px;
+}
+
+.DetailImg{
+display: flex;
+border-radius: 10px;
+}
